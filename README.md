@@ -1,5 +1,5 @@
-# Alzheimer Disease Detection using VGG16
-# Alzheimer-Disease-and-CNN
+# Alzheimer Disease Detection using VGG16 And ReduceLROnPlateau
+
 Alzheimer's disease (AD) is an irreversible and degenerative brain illness that gradually robs sufferers of their memory and cognitive functions, leaving them unable to perform even the most fundamental activities. AD is a prevalent disease, especially among the elderly. AD is the most prevalent form of dementia. Recent statistics indicate that more than 55 million people worldwide have dementia, and 10 million new cases are recorded annually. In 2022, it is estimated that 6.5 million Americans aged 65 and older will have Alzheimer's disease. If no medical improvements are made to prevent, halt, or cure Alzheimer's disease, this number might reach 13.8 million by 2060.
 
 Included in a general categorization of Alzheimer's dementia are the following:
